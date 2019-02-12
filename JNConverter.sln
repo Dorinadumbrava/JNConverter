@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JNConverter", "JNConverter\JNConverter.csproj", "{29727290-AE58-44AE-B14B-DEDDECBC8B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitJNConverterTests", "NunitJNConverterTests\NunitJNConverterTests.csproj", "{FE3913C8-23DA-4FF8-A121-3510237EF219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29727290-AE58-44AE-B14B-DEDDECBC8B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29727290-AE58-44AE-B14B-DEDDECBC8B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29727290-AE58-44AE-B14B-DEDDECBC8B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29727290-AE58-44AE-B14B-DEDDECBC8B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3913C8-23DA-4FF8-A121-3510237EF219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3913C8-23DA-4FF8-A121-3510237EF219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3913C8-23DA-4FF8-A121-3510237EF219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3913C8-23DA-4FF8-A121-3510237EF219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A4558DF-4E24-44E8-B73D-083FFB2543BA}
+	EndGlobalSection
+EndGlobal

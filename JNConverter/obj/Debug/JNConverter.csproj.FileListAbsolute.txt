@@ -1,0 +1,13 @@
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\JNConverter.exe.config
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\JNConverter.exe
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\JNConverter.pdb
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\obj\Debug\JNConverter.csprojAssemblyReference.cache
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\obj\Debug\JNConverter.csproj.CoreCompileInputs.cache
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\obj\Debug\JNConverter.exe
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\obj\Debug\JNConverter.pdb
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\obj\Debug\JNConverter.csproj.CopyComplete
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\Ninject.dll
+C:\Users\ddumbrava\OneDrive - ENDAVA\vs\JNConverter\JNConverter\bin\Debug\Ninject.xml
